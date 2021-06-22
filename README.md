@@ -8,6 +8,6 @@
 2. edit src/foo/bar.cljs and eg change `baz` to 42
 2. evaluate `foo.bar/baz` in repl => success!
 2. edit `src/cljs/user.cljs` and change eg `foo` to 117
-2. evaluate `cljs.user/foo` in repl => boom!
+2. evaluate `cljs.user/foo` (or anything else for that matter) in repl => boom!
 
 
