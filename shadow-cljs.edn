@@ -1,0 +1,6 @@
+{:deps   true
+ :builds {:frontend {:target   :browser
+                     :devtools {:http-port 8082
+                                :http-root "public"}
+                     :dev      {:output-dir "public/js"}
+                     :modules  {:main {:init-fn foo.bar/main}}}}}
