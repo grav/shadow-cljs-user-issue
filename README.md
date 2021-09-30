@@ -11,3 +11,6 @@
 2. evaluate `cljs.user/foo` (or anything else for that matter) in repl => boom!
 
 
+Issue: https://github.com/thheller/shadow-cljs/issues/905
+
+Fixed with https://github.com/thheller/shadow-cljs/commit/ae6fd0ea49f4495effc965d9bb61ae30cfec407c
